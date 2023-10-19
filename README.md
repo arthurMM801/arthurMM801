@@ -1,6 +1,6 @@
 ### Arthur de Melo Maia
 
-- 🔭 Estou cursando o 5º do Curso de Ciencias da computação na UNIFOR.
+- 🔭 Estou cursando o 6º do Curso de Ciencias da computação na UNIFOR.
 - 🌱 Atualmente estou aprendendo Python e Machine Learning.
 - 👯 Estou criando projetos para enriquecer o meu portifólio e por em pratica os meus conhecimentos.
 
